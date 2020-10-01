@@ -1,1 +1,1 @@
-# maven-samples
+# maven-samples project
